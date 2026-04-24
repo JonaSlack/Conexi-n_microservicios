@@ -1,4 +1,4 @@
-package com.duoc.hospital;
+package com.duoc.hospital.test;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
